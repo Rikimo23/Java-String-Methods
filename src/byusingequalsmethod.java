@@ -5,9 +5,9 @@ public class byusingequalsmethod {
         String s2="PerScholas";
         String s3=new String("PerScholas");
         String s4="Teksystem";
-        System.out.println(s1.equals(s2));//true
-        System.out.println(s1.equals(s3));//true
-        System.out.println(s1.equals(s4));//false
+        System.out.println(s1.equals(s2));
+        System.out.println(s1.equals(s3));
+        System.out.println(s1.equals(s4));
     }
 }
 
